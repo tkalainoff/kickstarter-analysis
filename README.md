@@ -37,4 +37,5 @@ That Louise's anticipated budget of $10,000 would fall into the goal range where
 This dataset seems pretty comprehensive. We are unable to see more granular data like each individual donation for a specific campaign, but the 'average donation' and 'backers count' still provides a comprehensive picture of that data. One area we are limited in is data for why a campaign got canceled - did it simply not raise enough money by the deadline? Was it canceled in the middle of the campaign for other reasons? etc. 
 
 - What are some other possible tables and/or graphs that we could create?
+
 We could show similar graphs that show the same information but looking specifically at plays only in the US, as Louise's play Fever will be happening in the United States. We could also take a deeper look into each campaign and have a column graph with a line overlaid to see the relationship between number of backers (represented by the columns) vs campaign goal (represented by the line). It would also be good to visualize the duration of campaigns and see if there is any relationship to a campaigns success.
