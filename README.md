@@ -14,6 +14,8 @@ The purpose of this analysis is to have a deeper understanding of the outcomes o
 
 For theater outcomes based on launch date, we can see in the line chart that both lines for successful and failed campaigns follow a similar trend - increasing from March to May and steadily decreasing from May to December with a slight uptick in October. 
 
+kickstarter-analysis/Theater_Outcomes_vs_Launch.png
+
 ### Analysis of Outcomes Based on Goals
 
 For outcomes based on goals of theater campaigns, we can see that no plays were canceled in our crowdfunding data and that the trends for successful and failed campaigns mirror each other in the chart, with three points where they cross each other. Successful campaigns account for the majority of campaigns with goals from 'Less Than 1000' to '1000 to 14999' to '35000 to 39999' to '40000 to 44999' and failed campaigns account for the majority of campaigns with goals of '2000 to 24999' to '30000 to 34999' and '45000 to 49999' to 'Greater Than 50000'. 
