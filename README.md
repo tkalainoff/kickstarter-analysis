@@ -18,7 +18,7 @@ For theater outcomes based on launch date, we can see in the line chart that bot
 
 https://github.com/tkalainoff/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png
 
-#### My attempt to embedd the image
+##### My attempt to embedd the image
 ![Theater_Outcomes_vs_Launch.png]
 (tkalainoff/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
