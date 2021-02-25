@@ -10,8 +10,6 @@ The purpose of this analysis is to have a deeper understanding of the outcomes o
 
 ## Analysis and Challenges
 
-Explain how you performed your analysis using images and links to code.
-
 ### Analysis of Outcomes Based on Launch Date
 
 For theater outcomes based on launch date, we can see in the line chart that both lines for successful and failed campaigns follow a similar trend - increasing from March to May and steadily decreasing from May to December with a slight uptick in October. 
