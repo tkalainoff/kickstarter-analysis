@@ -20,6 +20,8 @@ https://github.com/tkalainoff/kickstarter-analysis/blob/main/Theater_Outcomes_vs
 
 For outcomes based on goals of theater campaigns, we can see that no plays were canceled in our crowdfunding data and that the trends for successful and failed campaigns mirror each other in the chart, with three points where they cross each other. Successful campaigns account for the majority of campaigns with goals from 'Less Than 1000' to '1000 to 14999' to '35000 to 39999' to '40000 to 44999' and failed campaigns account for the majority of campaigns with goals of '2000 to 24999' to '30000 to 34999' and '45000 to 49999' to 'Greater Than 50000'. 
 
+https://github.com/tkalainoff/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png
+
 ### Challenges and Difficulties Encountered
 
 I was challenged when populating the Outcome Based on Goals sheet - I made numerous attempts to make sure all criteria was counted in the COUNTIFS function and then had to ensure that the criteria ranges were not moving when copied over the rest of the columns with '$'s. I was also a little surprised by the 'Canceled' category in both graphs and had to investigate the differences in the filtering of each graph to understand why the values in that category were presenting differently.
