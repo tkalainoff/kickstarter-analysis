@@ -17,11 +17,12 @@ https://github.com/tkalainoff/kickstarter-analysis/blob/main/Kickstarter_Challen
 For theater outcomes based on launch date, we can see in the line chart that both lines for successful and failed campaigns follow a similar trend - increasing from March to May and steadily decreasing from May to December with a slight uptick in October. 
 
 ![Theater_Outcomes_vs_Launch.png]
+(tkalainoff/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 (Theater_Outcomes_vs_Launch.png)
 
 https://github.com/tkalainoff/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png
-(tkalainoff/kickstarter-analysis/Theater_Outcomes_vs_Launch.png)
+
 
 ### Analysis of Outcomes Based on Goals
 
